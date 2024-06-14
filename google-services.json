@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1044342674370",
+    "project_id": "authentication-c33f7",
+    "storage_bucket": "authentication-c33f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044342674370:android:92f8c139059460b2727c5b",
+        "android_client_info": {
+          "package_name": "com.noormuhammad.dev.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044342674370-ea8dpmd1j20skphgg7b2bs60poenqpbf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.noormuhammad.dev.authentication",
+            "certificate_hash": "34fa6ce254ad6b1b72f07b71ed17de0b4209f986"
+          }
+        },
+        {
+          "client_id": "1044342674370-j2dtpjmuudff1okbdubg1n363r93g1t8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.noormuhammad.dev.authentication",
+            "certificate_hash": "f9c6e75816738d25dc4ac2c880e162778a36baca"
+          }
+        },
+        {
+          "client_id": "1044342674370-vid4pr9tf1gj8tgmgnfqmpq9f527vlt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg5DH9cNR34y6ETRBEVGLjVygFYE99lB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044342674370-vid4pr9tf1gj8tgmgnfqmpq9f527vlt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
